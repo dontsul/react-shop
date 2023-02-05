@@ -6,7 +6,7 @@ const Footer = () => {
                     © {new Date().getFullYear()} Copyright Text
                     <a
                         className="grey-text text-lighten-4 right"
-                        href="https://github.com/dontsul/movies"
+                        href="https://github.com/dontsul/react-shop"
                         target="_blanc"
                     >
                         Repo

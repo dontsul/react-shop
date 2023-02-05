@@ -8,7 +8,7 @@ const Header = () => {
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li>
                         <a
-                            href="https://github.com/dontsul/movies"
+                            href="https://github.com/dontsul/react-shop"
                             target="_blanc"
                             className="link-repo"
                         >
